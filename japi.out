@@ -1,0 +1,70 @@
+{
+    "Global Quote": {
+        "01. symbol": "OGEN",
+        "02. open": "0.6700",
+        "03. high": "0.7000",
+        "04. low": "0.6400",
+        "05. price": "0.6700",
+        "06. volume": "1134424",
+        "07. latest trading day": "2020-03-06",
+        "08. previous close": "0.6761",
+        "09. change": "-0.0061",
+        "10. change percent": "-0.9052%"
+    }
+}
+{
+    "Global Quote": {
+        "01. symbol": "AAPL",
+        "02. open": "282.0000",
+        "03. high": "290.8200",
+        "04. low": "281.2300",
+        "05. price": "289.0300",
+        "06. volume": "56544246",
+        "07. latest trading day": "2020-03-06",
+        "08. previous close": "292.9200",
+        "09. change": "-3.8900",
+        "10. change percent": "-1.3280%"
+    }
+}
+{
+    "Global Quote": {
+        "01. symbol": "MSFT",
+        "02. open": "162.6100",
+        "03. high": "163.1100",
+        "04. low": "156.0000",
+        "05. price": "161.5700",
+        "06. volume": "72821057",
+        "07. latest trading day": "2020-03-06",
+        "08. previous close": "166.2700",
+        "09. change": "-4.7000",
+        "10. change percent": "-2.8267%"
+    }
+}
+{
+    "Global Quote": {
+        "01. symbol": "TWTR",
+        "02. open": "33.8100",
+        "03. high": "33.9900",
+        "04. low": "32.5100",
+        "05. price": "33.4600",
+        "06. volume": "20340028",
+        "07. latest trading day": "2020-03-06",
+        "08. previous close": "34.9700",
+        "09. change": "-1.5100",
+        "10. change percent": "-4.3180%"
+    }
+}
+{
+    "Global Quote": {
+        "01. symbol": "GPRO",
+        "02. open": "3.7000",
+        "03. high": "3.7900",
+        "04. low": "3.6100",
+        "05. price": "3.7000",
+        "06. volume": "3838488",
+        "07. latest trading day": "2020-03-06",
+        "08. previous close": "3.7400",
+        "09. change": "-0.0400",
+        "10. change percent": "-1.0695%"
+    }
+}
